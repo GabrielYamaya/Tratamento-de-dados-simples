@@ -20,8 +20,6 @@ Calculadora-de-teste;
 | Python             | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)                                       | `![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)`                                         |
 
 
-# Estrutura do projeto (classes utilizadas):
-
 # Implantações:
  - O projeto pode ser utilizado em estudos básicos de tratamento e exibição de dados;
 
@@ -34,9 +32,19 @@ Calculadora-de-teste;
  - RA: 212065;
 
 # Testes:
+ - Cenário de extração
+ - Cenário de transformação
+ - Cenário de carregamento
 
-
-# Resultados:
+# Extração:
+ - Descrição:
+ - Código:
+ - Resultados:
 
 ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/212552d5-1603-4057-91c8-c732cce41c39)
+
+
+
+Link do código:
+https://colab.research.google.com/drive/17iSbIZQny2ODV5-LiaEM0IsxmjYHI7U3?usp=sharing
 
