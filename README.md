@@ -46,6 +46,8 @@ Calculadora-de-teste;
 
  - Resultados:
  - ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/16b2b43c-4343-434f-ba5e-451496ee5589)
+   Como resultado é printado na tela os valores contidos nos arquivos disponbilizados, tanto .CSV quanto .XLSX.
+
 
 
 # Transformação:
@@ -57,6 +59,8 @@ Calculadora-de-teste;
 
  - Resultados:
  - ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/212552d5-1603-4057-91c8-c732cce41c39)
+   Como resultado é printado os valores dos arquivos convertidos para .CSV com a coluna "valor total" preenchida de acordo com a multiplicação das colunas "Quantidade Vendida" e "Preço Unitário".
+
 
 
 # Carregamento:
@@ -68,6 +72,7 @@ Calculadora-de-teste;
 
  - Resultados:
  - ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/de7d6890-ec55-4923-9dad-afdd2a2d1bc4)
+   Como resultado é printado os valores dos arquivos convertidos para .CSV.
 
 # Link do código:
 https://colab.research.google.com/drive/17iSbIZQny2ODV5-LiaEM0IsxmjYHI7U3?usp=sharing
