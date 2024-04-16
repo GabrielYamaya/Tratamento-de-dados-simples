@@ -36,14 +36,30 @@ Calculadora-de-teste;
  - Cenário de transformação
  - Cenário de carregamento
 
+
 # Extração:
  - Descrição:
  - Código:
+   ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/081c58e2-51df-4ba0-90fe-e41195936f1c)
+
  - Resultados:
+   ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/16b2b43c-4343-434f-ba5e-451496ee5589)
 
-![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/212552d5-1603-4057-91c8-c732cce41c39)
+
+# Transformação:
+ - Descrição:
+   
+ - Código:
+   ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/24771788-16cd-4b27-bd35-8a5b9f89a0ee)
+
+ - Resultados:
+   ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/212552d5-1603-4057-91c8-c732cce41c39)
 
 
+# Carregamento:
+ - Descrição:
+ - Código:
+ - Resultados:
 
 Link do código:
 https://colab.research.google.com/drive/17iSbIZQny2ODV5-LiaEM0IsxmjYHI7U3?usp=sharing
