@@ -11,13 +11,13 @@ Calculadora-de-teste;
 
 | Name               | Badge                                                                                                                                             | Markdown                                                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Google Colab            | ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)                                      | `![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)`                                      |
+| Google Colab            | ![Colab]([https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-arnny&psig=AOvVaw0FfPUEHd7Cey8KHDH36hnl&ust=1713383276651000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj77Z7Ax4UDFQAAAAAdAAAAABAE))                                      | `![Colab]([https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-arnny&psig=AOvVaw0FfPUEHd7Cey8KHDH36hnl&ust=1713383276651000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj77Z7Ax4UDFQAAAAAdAAAAABAE))`                                      |
 
 ## 📋 Languages
 
 | Name             | Badge                                                                                                                                        | Markdown                                                                                                                                         |
 | -------------    | --------------------------------------------------------------------------------------------------------------------------------             | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Python             | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)                                       | `![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)`                                         |
+| Python             | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                                       | `![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)`                                         |
 
 
 # Implantações:
