@@ -11,21 +11,19 @@ Calculadora-de-teste;
 
 | Name               | Badge                                                                                                                                             | Markdown                                                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Eclipse            | ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)                                      | `![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)`                                      |
+| Google Colab            | ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)                                      | `![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)`                                      |
 
 ## 📋 Languages
 
 | Name             | Badge                                                                                                                                        | Markdown                                                                                                                                         |
 | -------------    | --------------------------------------------------------------------------------------------------------------------------------             | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Java             | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)                                       | `![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)`                                         |
+| Python             | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)                                       | `![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)`                                         |
 
 
 # Estrutura do projeto (classes utilizadas):
-  - Calculadora: possui as funções somar, subtrair, dividir e multiplicar, cada uma realizando sua respectiva função matemática com dois números inteiros.
-  - CalculadoraTestes: a classe main do projeto, cria um objeto do tipo calculadora e realiza diversos cenários de testes com as funções da Calculadora.
 
 # Implantações:
- - O projeto pode ser utilizado em estudos básicos de teste unitário de software;
+ - O projeto pode ser utilizado em estudos básicos de tratamento e exibição de dados;
 
 # Versionamento:
  - 1.0.2;
