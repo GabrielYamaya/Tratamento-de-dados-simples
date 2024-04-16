@@ -1,6 +1,6 @@
 # Tratamento-de-dados-simples
 
-![image](https://github.com/GabrielYamaya/Calculadora-de-teste/assets/117553594/6d767b54-5c8c-4638-b2d1-ae1f43ff1e22)
+![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/dba0609e-ff68-41ce-b577-ea064c439d7f)
 
 # Projeto: 
 
@@ -12,7 +12,6 @@ Calculadora-de-teste;
 | Name               | Badge                                                                                                                                             | Markdown                                                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Google Colab            | ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/43a11daa-248e-4ccb-b7cc-f2cd8a9b0da0)
-                                      |                                 |
 
 ## 📋 Languages
 
@@ -25,7 +24,7 @@ Calculadora-de-teste;
  - O projeto pode ser utilizado em estudos básicos de tratamento e exibição de dados;
 
 # Versionamento:
- - 1.0.2;
+ - 1.0.0;
 
 # Autor:
  - Nome: Gabriel Queiroz Pereira Yamaya;
@@ -40,6 +39,8 @@ Calculadora-de-teste;
 
 # Extração:
  - Descrição:
+   Este cenário é utilizado para fazer a leitura de arquivos de diferentes formatos. Neste caso, foram abertos arquivos .CSV e .XLSX no mesmo código.
+   
  - Código:
  - ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/081c58e2-51df-4ba0-90fe-e41195936f1c)
 
@@ -49,6 +50,7 @@ Calculadora-de-teste;
 
 # Transformação:
  - Descrição:
+   Este cenário é utilizado para criar colunas novas a partir de outras. Neste exemplo, ao invés de armazenar a coluna "valor total" por meio de um input do usuário, é coletado os dados de número de vendas e o valor para cada venda, que são utilizados como base de cálculo para criar a coluna "valor total".
    
  - Código:
  - ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/24771788-16cd-4b27-bd35-8a5b9f89a0ee)
@@ -59,6 +61,8 @@ Calculadora-de-teste;
 
 # Carregamento:
  - Descrição:
+   Este cenário é utilizado para padronizar diferentes bases de dados. Neste caso ambos são convertidos para .CSV que seria o padrão para este caso. Dessa forma facilitando, simplificando e até mesmo podendo otimizar o armazenamento de grandes dados.
+   
  - Código:
  - ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/7d3eef18-1692-4011-a91b-df2e6d23ce53)
 
