@@ -11,8 +11,8 @@ Calculadora-de-teste;
 
 | Name               | Badge                                                                                                                                             | Markdown                                                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Google Colab            | ![Colab](![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/43a11daa-248e-4ccb-b7cc-f2cd8a9b0da0)
-)                                      | `![Colab]([]))`                                      |
+| Google Colab            | ![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/43a11daa-248e-4ccb-b7cc-f2cd8a9b0da0)
+                                      | `![Colab]([]))`                                      |
 
 ## 📋 Languages
 
