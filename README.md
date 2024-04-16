@@ -33,3 +33,10 @@ Calculadora-de-teste;
  - Email: yamaya.gabriel@gmail.com;
  - RA: 212065;
 
+# Testes:
+
+
+# Resultados:
+
+![image](https://github.com/GabrielYamaya/Tratamento-de-dados-simples/assets/117553594/212552d5-1603-4057-91c8-c732cce41c39)
+
